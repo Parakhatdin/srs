@@ -4,8 +4,8 @@
 
 |#|Contents|
 |-|-|
-|1| [Introduction](./SRS.md#1.-Introduction)|
-|2| [Overall description](./SRS.md#2.-Overall-Description)|
+|1| [Introduction](./SRS.md#1.Introduction)|
+|2| [Overall description](./SRS.md#2.OverallDescription)|
 |3| Requirements|
 
 ---
