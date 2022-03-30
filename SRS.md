@@ -4,13 +4,13 @@
 
 |#|Contents|
 |-|-|
-|1| [Introduction](./SRS.md#Introduction)|
-|2| Overall description|
+|1| [Introduction](./SRS.md#1.-Introduction)|
+|2| [Overall description](./SRS.md#2.-Overall-Description)|
 |3| Requirements|
 
 ---
 
-## Introduction
+## 1. Introduction
 
 ### 1.1 Purpose  
 
